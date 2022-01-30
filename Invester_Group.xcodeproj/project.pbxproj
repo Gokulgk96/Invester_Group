@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		30066D4727A719F9003F8BEB /* App_icon-modified.png in Resources */ = {isa = PBXBuildFile; fileRef = 30066D4627A719F9003F8BEB /* App_icon-modified.png */; };
 		3070D94527A505E300ED1203 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3070D94427A505E300ED1203 /* AppDelegate.swift */; };
 		3070D94727A505E300ED1203 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3070D94627A505E300ED1203 /* SceneDelegate.swift */; };
 		3070D94C27A505E300ED1203 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3070D94A27A505E300ED1203 /* Main.storyboard */; };
@@ -40,6 +41,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		30066D4627A719F9003F8BEB /* App_icon-modified.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "App_icon-modified.png"; sourceTree = "<group>"; };
 		3070D94127A505E300ED1203 /* Invester_Group.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Invester_Group.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3070D94427A505E300ED1203 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		3070D94627A505E300ED1203 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -118,6 +120,7 @@
 				3070D94D27A505E400ED1203 /* Assets.xcassets */,
 				3070D94F27A505E400ED1203 /* LaunchScreen.storyboard */,
 				3070D95227A505E400ED1203 /* Info.plist */,
+				30066D4627A719F9003F8BEB /* App_icon-modified.png */,
 			);
 			path = Invester_Group;
 			sourceTree = "<group>";
@@ -273,6 +276,7 @@
 				3070D95127A505E400ED1203 /* LaunchScreen.storyboard in Resources */,
 				3070D94E27A505E400ED1203 /* Assets.xcassets in Resources */,
 				3070D94C27A505E300ED1203 /* Main.storyboard in Resources */,
+				30066D4727A719F9003F8BEB /* App_icon-modified.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
